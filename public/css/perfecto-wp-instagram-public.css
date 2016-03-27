@@ -1,0 +1,16 @@
+.widget_perfecto_widget {
+    clear: both;
+}
+
+.widget_perfecto_widget .widget_title {
+	text-align: center;
+}
+
+#perfecto_instagram input {
+    font-size: 100%;
+}
+
+#perfecto_instagram input[type="text"] {
+    border: 1px solid #ccc;
+    padding: 4px 8px;
+}
