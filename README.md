@@ -1,21 +1,13 @@
 # Perfecto! WordPress Instagram Plugin
 
-=== Plugin Name ===
-
-Contributors: ZachTRice
-
-Donate link: http://zachtrice.com
-
-Tags: comments, spam
-
-Requires at least: 3.0.1
-
-Tested up to: 3.4
-
-Stable tag: 4.3
-
-License: GPLv2 or later
-
+=== Plugin Name ===   
+Contributors: ZachTRice   
+Donate link: http://zachtrice.com   
+Tags: comments, spam   
+Requires at least: 3.0.1   
+Tested up to: 3.4   
+Stable tag: 4.3   
+License: GPLv2 or later   
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A lightweight WordPress plugin for displaying Instagram photos by username or tag.
