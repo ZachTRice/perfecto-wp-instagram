@@ -1,4 +1,4 @@
-# perfecto-wp-instagram
+# Perfecto! WordPress Instagram Plugin
 
 === Plugin Name ===
 Contributors: ZachTRice
