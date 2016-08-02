@@ -1,5 +1,5 @@
 # Perfecto! WordPress Instagram Plugin
-
+**NOTE: This plugin is now depreciated after Instagram's latest API update.**
 === Plugin Name ===   
 Contributors: ZachTRice   
 Donate link: http://zachtrice.com   
